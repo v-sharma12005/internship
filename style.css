@@ -1,0 +1,68 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+
+
+body {
+  background: #000;
+  color: white;
+  overflow-x: hidden;
+}
+
+
+body {
+  background: #000;
+  color: #fff;
+  font-family: Arial, sans-serif;
+  overflow-x: hidden;
+}
+
+.hero {
+  height: 100vh;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.hero-title {
+  font-size: 5rem;
+  letter-spacing: 0.6em;
+  margin-bottom: 3rem;
+}
+
+
+
+.stats {
+  display: flex;
+  gap: 4rem;
+}
+
+.stat-item {
+  text-align: center;
+}
+
+.stat-item h2 {
+  font-size: 2rem;
+}
+
+.car-image {
+  position: absolute;
+  bottom: 50px;
+  left: -200px;
+  width: 250px;
+}
+
+.spacer {
+  height: 100vh;
+  background: #111;
+}
