@@ -91,6 +91,6 @@ This internship project provides practical experience with:
 ## Contact
 For any inquiries or suggestions, please reach out through:
 - GitHub Issues: Open an issue on the repository
-- Email: v-sharma12005@example.com
+- Email: sharmavishnu3211@gmail.com
 
 ## Last updated: 2026-03-03 22:14:22
